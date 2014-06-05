@@ -1,0 +1,29 @@
+
+## 2014 gitignore
+## --------
+## Xcode Project
+**/*.xcodeproj/*
+!**/*.xcodeproj/project.pbxproj
+!**/*.xcodeproj/default.*
+
+## Xcode Workspace
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+
+## ————
+
+# hidden/temp files
+.DS_Store
+*.swp
+*~.nib
+
+# Build dir
+build/
+.buildpath
+
+# Windows image thumbnail file
+Thumbs.db
+ 
+# User-specific project settings
+*.mode1v3
+*.mode2v3

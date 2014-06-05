@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C17CB37-6450-4B57-8F34-AA70FC897E0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ObjCStartBook01</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5DD088D8-1C38-4F66-A336-358B5D90C816</key>
+		<string>https://github.com/maru1Multi/ObjCStartBook01.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ObjCStartBook01/ObjCStartBook01.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5DD088D8-1C38-4F66-A336-358B5D90C816</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/maru1Multi/ObjCStartBook01.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DD088D8-1C38-4F66-A336-358B5D90C816</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DD088D8-1C38-4F66-A336-358B5D90C816</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ObjCStartBook01</string>
+		</dict>
+	</array>
+</dict>
+</plist>
