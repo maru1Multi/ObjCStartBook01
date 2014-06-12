@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3C17CB37-6450-4B57-8F34-AA70FC897E0D</string>
+	<string>4FDCCBCE-B343-4843-96FC-7DF10307F922</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ObjCStartBook01</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>https://github.com/maru1Multi/ObjCStartBook01.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ObjCStartBook01/ObjCStartBook01.xcodeproj/project.xcworkspace</string>
+	<string>ObjCStartBook01.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5DD088D8-1C38-4F66-A336-358B5D90C816</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/maru1Multi/ObjCStartBook01.git</string>
